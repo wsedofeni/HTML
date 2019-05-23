@@ -1,0 +1,30 @@
+.bord { 
+	border: solid blue;
+	padding: 10px 20px 10px 20px;
+} 
+.dd {
+    background-color: rgba(31, 31, 218, 0.5);
+	padding: 10px 10px 10px 10px;
+}
+  
+.text{
+	background-color: yellow;
+}
+.button, .buttonRed, .buttonSub {
+	background-color: blue;
+    width: auto;
+	height: auto;
+	color: white;
+}
+.buttonRed {   
+    background-color: red;
+	}
+	
+.buttonSub {
+	background-color: white;
+	color: blue;
+	font-weight: 700;
+}
+.button {
+	height: 40px;
+}
