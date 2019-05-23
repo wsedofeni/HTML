@@ -1,0 +1,34 @@
+body{
+	background-image: url('https://clipart-db.ru/file_content/rastr/background_061.jpg');
+}
+
+h1{
+	color: white;
+	letter-spacing: 4px;
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: bold;
+}
+h2{
+	color: white;
+	letter-spacing: 2px;
+	font-family: cursive;
+	font-style: italic;
+	text-align: center;
+	font-weight: normal;
+}
+
+
+
+a:link{
+color: #0304f4;
+}
+
+a:visited {
+	color: #ccc;
+}
+
+.text {
+	font-color #ccc;
+	text-indent: 20px;
+}
