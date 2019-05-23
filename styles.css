@@ -1,0 +1,25 @@
+a{
+color: red;
+}
+
+a:hover {font-size: 20px;}
+
+a:visited {
+	color: red;
+}
+
+a:focus {
+color: yellow;
+}
+
+ul > li > ul{display:none;}
+ul > li > a:hover + ul{display:block;}
+
+.bg{
+	margin-top: 20px;
+	width: 600px;
+	background-color: #ccc;
+	background-image: url('https://clipart-db.ru/file_content/rastr/background_061.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}	
